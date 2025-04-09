@@ -13,3 +13,4 @@ Do konce roku bych to asi chtěl trochu optimalizovat a přidat bota, zlepšit g
 a nakonec pokud zbyde čas nějakou pěknější grafiku a zvukové efekty.
 
 Video jak to zrovna vypadá:
+https://1drv.ms/v/c/BA39FA0496BF44AA/EXpFS_eWCcBIvUaLpdffcpYB3PcoLsuIIp5fD_Mm5OL3rw?e=w4fHzi

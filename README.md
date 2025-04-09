@@ -11,3 +11,6 @@ Kromě takovéhoto "survivalu" chci přidat i možnost duelů a hromadných klá
 Hotové mám už pohyb hráče generaci jednoduché mapy. Sledování hráčových životů a lobby.
 Do konce roku bych to asi chtěl trochu optimalizovat a přidat bota, zlepšit genaraci mapy, tak aby se generovaly i jiné věci než platformy(powerupy, enemies, možná struktury)
 a nakonec pokud zbyde čas nějakou pěknější grafiku a zvukové efekty.
+
+Video jak to zrovna vipadá:
+file:///C:/Users/Filip/Videos/Captures/My%20project%20(3)%20-%20infine_world%20-%20Windows,%20Mac,%20Linux%20-%20Unity%206%20(6000.0.43f1)%20_DX11_%202025-04-09%2020-16-16.mp4
